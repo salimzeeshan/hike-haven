@@ -2,7 +2,7 @@ import React from 'react'
 import {ArrowForwardIcon} from "@chakra-ui/icons"
 import {Button} from "@chakra-ui/react"
 
-function ButtonBlue() {
+function ButtonBlue({title}) {
   return (
     <Button
             color={"white"}
@@ -12,7 +12,7 @@ function ButtonBlue() {
             bgColor={"#6C6CFF"}
             borderRadius={20}
             rightIcon={<ArrowForwardIcon />}>
-            Get Started
+            {title}
     </Button>
   )
 }
