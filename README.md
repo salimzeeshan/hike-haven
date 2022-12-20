@@ -12,7 +12,13 @@ management software.
 ​
 ​
 ## Run Locally
-​
+
+Clone the project
+
+```bash
+  git clone https://github.com/salimzeeshan/hike-haven.git
+```
+
 Go to the project directory
 
 ```bash
