@@ -1,4 +1,4 @@
-# Hike Haven (clone of [MONDAY](https://www.ssense.com/en-in))
+# Hike Haven (clone of [monday](https://www.ssense.com/en-in))
 ​
 A cloud-based platform that allows
 users to create their own applications and project
