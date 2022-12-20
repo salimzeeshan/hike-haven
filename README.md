@@ -7,7 +7,8 @@ management software.
 ​
 ## Features
 - Fully responsive
-- CRUD operations using JSON server
+- Implemented routing using React Router DOM
+- Implemented authentication
 ​
 ​
 ## Run Locally
@@ -32,6 +33,6 @@ Start the server
 
 ## Tech Stack
 ​
-**Client:** HTML, CSS, JavaScript
+**Client:** React, JavaScript, Chakr UI, React Router DOM
 <br>
 **Server:** JSON
